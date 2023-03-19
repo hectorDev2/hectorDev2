@@ -24,11 +24,11 @@ Bienvenido a mi perfil github soy Hector Paolo FullStack developer, amante de la
 - Migracion de una app monolito a microservicios de backend(typeorm mysql)
 
 ### Frontend developer
-- Frontend con React o Angular (experiencia laboral) 
-- Aplicacion de la IA en la web y como desarrollar productos apartir de estos
-- Migracion tablas de datos paginada y con filtros (de VUE a REACT)
-- Migracion de una app monolito a microservicios (de VUE a ANGULAR)
-
+- Frontend con React o Angular (experiencia laboral).
+- Creacion de APP con el uso de la API de OPENAI (GPT3) similar a CHAT-GPT.
+- Migracion tablas de datos paginada y con filtros (de VUE a REACT).
+- Migracion de una app monolito a microservicios (de VUE a ANGULAR).
+.
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=darkp0lx&show_icons=true&hide_border=true" />
@@ -53,5 +53,3 @@ Bienvenido a mi perfil github soy Hector Paolo FullStack developer, amante de la
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
-
-https://www.vectorlogo.zone/logos/mysql/mysql-official.svg
