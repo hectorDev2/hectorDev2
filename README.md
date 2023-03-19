@@ -1,21 +1,33 @@
-### Hola👋 
-### Soy Hector Paolo !
-### Frontend Developer React
+# Hola👋 
+# Soy Hector Paolo Barazorda!
+#### FullStack developer
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/darkp0lx)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hectorDev2)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/barazorda-paolo/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:polbarazorda@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ph.barazorda@gmail.com)
 
-Bienvenido a mi perfil github soy Hector Paolo Desarrollador Web.
+Bienvenido a mi perfil github soy Hector Paolo FullStack developer, amante de las startups y del impacto positivo que tienen en la sociedad.
 
 <img align="right" alt="img" src="https://darkp0lx.github.io/portfolio/images/perfil.jpg" width="50%" height="auto" />
 
 
-#### 🌱 cosas que me gustaría aprender: 
-- Backend developer  
-- Aprender mucho mas del desarrollo web en tiempo real
-- Maching learning con JS y TensorFlow
+## 🌱 cosas que aprendi : 
+- Patrones de diseño
+- Clean code
+- Buenas Practicas
+- Testing
 
+### Backend developer
+- Backend con Nest,creacion de API (CRUD,expericencia laboral)
+- Authenticion y seguridad (token y jwt)
+- Proteccion de rutas y roles
+- Migracion de una app monolito a microservicios de backend(typeorm mysql)
+
+### Frontend developer
+- Frontend con React o Angular (experiencia laboral) 
+- Aplicacion de la IA en la web y como desarrollar productos apartir de estos
+- Migracion tablas de datos paginada y con filtros (de VUE a REACT)
+- Migracion de una app monolito a microservicios (de VUE a ANGULAR)
 
 #### :computer: Programming languages and tools: 
 <p>
@@ -26,9 +38,9 @@ Bienvenido a mi perfil github soy Hector Paolo Desarrollador Web.
 <code><img width="8%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
 <br />
 	<br>
-	<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+	<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 	<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
-	<code><img width="10%" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>
+	<code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"></code>
 	<br/>
 
 <br>
@@ -38,8 +50,8 @@ Bienvenido a mi perfil github soy Hector Paolo Desarrollador Web.
 	<br/>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-
+https://www.vectorlogo.zone/logos/mysql/mysql-official.svg
