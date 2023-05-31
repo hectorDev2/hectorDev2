@@ -8,7 +8,7 @@
 
 Bienvenido a mi perfil github soy Hector Paolo FullStack developer, amante de las startups y del impacto positivo que tienen en la sociedad.
 
-<img align="right" alt="img" src="https://darkp0lx.github.io/portfolio/images/perfil.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://hectorDev2.github.io/portfolio/images/perfil.jpg" width="50%" height="auto" />
 
 
 ## 🌱 cosas que aprendi : 
