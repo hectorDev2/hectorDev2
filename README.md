@@ -33,7 +33,7 @@ Bienvenido a mi perfil github soy Hector Paolo FullStack developer, amante de la
 
 ## GitHub Stats
 
-![Hector's GitHub stats](https://github-readme-stats.vercel.app/api?username=hectorDev2&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hectorDev2&show_icons=true&theme=tokyonight&rank_icon=github)
 
 <p>
 	## GitHub strikes
