@@ -31,10 +31,9 @@ Bienvenido a mi perfil github soy Hector Paolo FullStack developer, amante de la
 .
 #### :computer: Programming languages and tools: 
 <p>
-	## GitHub Stats
+	## GitHub strikes
 
-![Hector's GitHub stats](https://github-readme-stats.vercel.app/api?username=hectorDev2&show_icons=true&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=hectorDev2&theme=tokyonight)
 <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
