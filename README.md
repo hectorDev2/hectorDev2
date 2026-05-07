@@ -30,6 +30,11 @@ Bienvenido a mi perfil github soy Hector Paolo FullStack developer, amante de la
 - Migracion de una app monolito a microservicios (de VUE a ANGULAR).
 .
 #### :computer: Programming languages and tools: 
+
+## GitHub Stats
+
+![Hector's GitHub stats](https://github-readme-stats.vercel.app/api?username=hectorDev2&show_icons=true&theme=tokyonight)
+
 <p>
 	## GitHub strikes
 
